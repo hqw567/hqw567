@@ -1,4 +1,5 @@
 ### Hi there 👋
+你好啊！
 
 <!--
 **hqw567/hqw567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
