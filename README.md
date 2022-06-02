@@ -1,4 +1,4 @@
-### Hi there,this is [hqw567](https://simimi.cn) 👋
+### Hi there,this is [Herway](https://simimi.cn) 👋
 <!--
 **hqw567/hqw567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
