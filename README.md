@@ -63,8 +63,7 @@ Here are some ideas to get you started:
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-| <a href="https://github.com/hqw567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hqw567&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars,prs" alt="hqw567's github stats" /></a> | <a href="https://github.com/hqw567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqw567&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api?username=hqw567&show_icons=true&include_all_commits=true&theme=buefy&hide=stars,prs)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
