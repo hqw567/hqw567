@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-![](https://github-readme-stats.vercel.app/api?username=hqw567&show_icons=true&include_all_commits=true&theme=buefy&hide=stars,prs)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hqw567&show_icons=true&include_all_commits=true&theme=buefy&hide=stars,prs) -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
